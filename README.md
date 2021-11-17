@@ -1,6 +1,6 @@
 # Elegant_Calculator
 Features - 
-1) Responsive UI.
+1) Responsive UI conflict 1.
 2) It can perform all basic operations.
 3) IOS like UI.
 
